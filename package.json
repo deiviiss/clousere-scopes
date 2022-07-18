@@ -1,0 +1,22 @@
+{
+  "name": "clouseres-scopes",
+  "version": "1.0.0",
+  "description": "Curso Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deiviiss/clousere-scopes.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "David Hilera <david.hilera@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deiviiss/clousere-scopes/issues"
+  },
+  "homepage": "https://github.com/deiviiss/clousere-scopes#readme"
+}
